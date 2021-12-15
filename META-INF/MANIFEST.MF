@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: com.universalportal.testcases.LaunchApp
+
+Name: org/aspectj/weaver/
+Implementation-Title: org.aspectj.weaver
+Bundle-Version: 1.9.4
+Implementation-Version: 1.9.4
+Bundle-Name: AspectJ Weaver
+Specification-Vendor: https://www.eclipse.org/aspectj/
+Bundle-Copyright: (C) Copyright 1999-2001 Xerox Corporation,										
+ 		2002 Palo Alto Research Center, Incorporated (PARC),												200
+ 3-2019 Contributors. All Rights Reserved
+Specification-Title: AspectJ Weaver Classes
+Specification-Version: 1.9.4
+Implementation-Vendor: https://www.eclipse.org/aspectj/
+
+Name: javax/xml/transform/
+Implementation-Title: javax.xml.transform
+Implementation-Version: 1.1.2
+Specification-Vendor: Sun Microsystems Inc.
+Specification-Title: Java API for XML Processing
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Version: 1.1
+Implementation-URL: http://java.sun.com/xml/jaxp.html
+Implementation-Vendor: Sun Microsystems Inc.
+
+Name: org/apache/xmlbeans/
+Implementation-Title: org.apache.xmlbeans
+Comment: Apache XmlBeans version 3.1.0
+Implementation-Version: 3.1.0
+Implementation-URL: http://xmlbeans.apache.org/
+Implementation-Vendor: Apache Software Foundation
+
+Name: org/w3c/dom/
+Implementation-Title: org.w3c.dom
+Implementation-Version: 1.0
+Specification-Vendor: World Wide Web Consortium
+Specification-Title: Document Object Model, Level 2 Core
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Version: 1.0
+Implementation-URL: http://www.w3c.org/DOM/
+Implementation-Vendor: World Wide Web Consortium
+
+Name: javax/xml/parsers/
+Implementation-Title: javax.xml.transform
+Implementation-Version: 1.1.2
+Specification-Vendor: Sun Microsystems Inc.
+Specification-Title: Java API for XML Processing
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Version: 1.1
+Implementation-URL: http://java.sun.com/xml/jaxp.html
+Implementation-Vendor: Sun Microsystems Inc.
+
+Name: org/apache/xmlcommons/Version
+Implementation-Title: org.apache.xmlcommons.Version
+Comment: XmlCommons for http://xml.apache.org/ subproject's use
+Implementation-Version: 1.0.b2
+Implementation-URL: http://xml.apache.org/commons/
+Implementation-Vendor: Apache Software Foundation
+
+Name: org.apache.log4j
+Implementation-Title: log4j
+Implementation-Version: 1.2.17
+DynamicImport-Package: *
+Implementation-Vendor: "Apache Software Foundation"
+
+Name: Build-Info
+Build-Time: 2018-11-14T08:24:01
+Build-Revision: e82be7d358
+
+Name: org/xml/sax/
+Implementation-Title: org.xml.sax
+Implementation-Version: 2.0
+Specification-Vendor: David Megginson
+Specification-Title: Simple API for XML
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Version: 2.0
+Implementation-URL: http://www.megginson.com/SAX/index.html
+Implementation-Vendor: David Megginson
+
